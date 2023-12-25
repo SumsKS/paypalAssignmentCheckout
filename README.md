@@ -1,24 +1,31 @@
-Specifications of the Simple PayPal based ECommerce website
+# simple-ecommerce-site
 
-Single Web Page for purchasing a bike using PayPal Smart Button
-Maximum quantity is 3 and minimum is 1
-After successful payment, success message is displayed on the product page
+### Specifications of the Simple PayPal based ECommerce website
 
-Language used node js
+1. Single Web Page for purchasing a bike using PayPal Smart Button
 
-Sandbox user credentials - sb-436hyn28908491@personal.example.com/lI>Z9!)+
+2. Maximum quantity is 3 and minimum is 1
 
-start the project
-npm start
+3. After successful payment, success message is displayed on the product page
 
-Paypal Documentation helpful links
+4. Language used node.js
 
-Dummy Cards on Paypal: https://developer.paypal.com/tools/sandbox/card-testing/
+5. Sandbox user credentials - `sb-436hyn28908491@personal.example.com/lI>Z9!)+`
 
-JS SDK: https://developer.paypal.com/sdk/js/reference/#buttons
+### Installation Steps for setting up the project
 
-Orders API: https://developer.paypal.com/docs/api/orders/v2/#orders_create
+1. `npm start` has to be run from the root of the repo
+   
 
-Developer Dashboard: https://developer.paypal.com/dashboard/
+### Paypal Documentation helpful links
 
-Integration Code and Logic: https://developer.paypal.com/docs/checkout/standard/integrate/
+* Dummy Cards on Paypal: https://developer.paypal.com/tools/sandbox/card-testing/
+
+* JS SDK: https://developer.paypal.com/sdk/js/reference/#buttons
+
+* Orders API: https://developer.paypal.com/docs/api/orders/v2/#orders_create
+
+* Developer Dashboard: https://developer.paypal.com/dashboard/
+
+* Integration Code and Logic: https://developer.paypal.com/docs/checkout/standard/integrate/
+
